@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D5674861E8EAD0F00BF1405 /* BanoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5674851E8EAD0F00BF1405 /* BanoViewController.swift */; };
+		1D56748B1E8EB06E00BF1405 /* CocinaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D56748A1E8EB06E00BF1405 /* CocinaViewController.swift */; };
+		1D56748D1E8EB0C600BF1405 /* AireViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D56748C1E8EB0C600BF1405 /* AireViewController.swift */; };
 		1DD5E6361E8DDD4700B8D9BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6351E8DDD4700B8D9BF /* AppDelegate.swift */; };
 		1DD5E6381E8DDD4700B8D9BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6371E8DDD4700B8D9BF /* ViewController.swift */; };
 		1DD5E63B1E8DDD4700B8D9BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DD5E6391E8DDD4700B8D9BF /* Main.storyboard */; };
@@ -14,6 +17,11 @@
 		1DD5E6401E8DDD4700B8D9BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DD5E63E1E8DDD4700B8D9BF /* LaunchScreen.storyboard */; };
 		1DD5E64B1E8DDD4800B8D9BF /* SmartHomePedroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E64A1E8DDD4800B8D9BF /* SmartHomePedroTests.swift */; };
 		1DD5E6561E8DDD4800B8D9BF /* SmartHomePedroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6551E8DDD4800B8D9BF /* SmartHomePedroUITests.swift */; };
+		1DD5E66C1E8DE6C800B8D9BF /* CamaraSController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6651E8DE6C800B8D9BF /* CamaraSController.swift */; };
+		1DD5E66E1E8DE6C800B8D9BF /* SalaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6671E8DE6C800B8D9BF /* SalaController.swift */; };
+		1DD5E6701E8DE6C800B8D9BF /* CuartoUnoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6691E8DE6C800B8D9BF /* CuartoUnoController.swift */; };
+		1DD5E6721E8DF6A400B8D9BF /* CuartoDos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6711E8DF6A400B8D9BF /* CuartoDos.swift */; };
+		1DD5E6761E8E3C7E00B8D9BF /* LightController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD5E6751E8E3C7E00B8D9BF /* LightController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +42,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1D5674851E8EAD0F00BF1405 /* BanoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BanoViewController.swift; sourceTree = "<group>"; };
+		1D56748A1E8EB06E00BF1405 /* CocinaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocinaViewController.swift; sourceTree = "<group>"; };
+		1D56748C1E8EB0C600BF1405 /* AireViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AireViewController.swift; sourceTree = "<group>"; };
 		1DD5E6321E8DDD4700B8D9BF /* SmartHomePedro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartHomePedro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD5E6351E8DDD4700B8D9BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DD5E6371E8DDD4700B8D9BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,11 @@
 		1DD5E6511E8DDD4800B8D9BF /* SmartHomePedroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartHomePedroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD5E6551E8DDD4800B8D9BF /* SmartHomePedroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmartHomePedroUITests.swift; sourceTree = "<group>"; };
 		1DD5E6571E8DDD4800B8D9BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DD5E6651E8DE6C800B8D9BF /* CamaraSController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CamaraSController.swift; sourceTree = "<group>"; };
+		1DD5E6671E8DE6C800B8D9BF /* SalaController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SalaController.swift; sourceTree = "<group>"; };
+		1DD5E6691E8DE6C800B8D9BF /* CuartoUnoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CuartoUnoController.swift; sourceTree = "<group>"; };
+		1DD5E6711E8DF6A400B8D9BF /* CuartoDos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CuartoDos.swift; sourceTree = "<group>"; };
+		1DD5E6751E8E3C7E00B8D9BF /* LightController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,10 +115,18 @@
 			children = (
 				1DD5E6351E8DDD4700B8D9BF /* AppDelegate.swift */,
 				1DD5E6371E8DDD4700B8D9BF /* ViewController.swift */,
+				1DD5E6651E8DE6C800B8D9BF /* CamaraSController.swift */,
+				1DD5E6671E8DE6C800B8D9BF /* SalaController.swift */,
+				1DD5E6691E8DE6C800B8D9BF /* CuartoUnoController.swift */,
+				1DD5E6711E8DF6A400B8D9BF /* CuartoDos.swift */,
 				1DD5E6391E8DDD4700B8D9BF /* Main.storyboard */,
 				1DD5E63C1E8DDD4700B8D9BF /* Assets.xcassets */,
 				1DD5E63E1E8DDD4700B8D9BF /* LaunchScreen.storyboard */,
 				1DD5E6411E8DDD4700B8D9BF /* Info.plist */,
+				1DD5E6751E8E3C7E00B8D9BF /* LightController.swift */,
+				1D5674851E8EAD0F00BF1405 /* BanoViewController.swift */,
+				1D56748A1E8EB06E00BF1405 /* CocinaViewController.swift */,
+				1D56748C1E8EB0C600BF1405 /* AireViewController.swift */,
 			);
 			path = SmartHomePedro;
 			sourceTree = "<group>";
@@ -193,6 +217,7 @@
 				TargetAttributes = {
 					1DD5E6311E8DDD4700B8D9BF = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5P846UEQ9V;
 						ProvisioningStyle = Automatic;
 					};
 					1DD5E6451E8DDD4800B8D9BF = {
@@ -259,6 +284,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DD5E66E1E8DE6C800B8D9BF /* SalaController.swift in Sources */,
+				1D56748D1E8EB0C600BF1405 /* AireViewController.swift in Sources */,
+				1D5674861E8EAD0F00BF1405 /* BanoViewController.swift in Sources */,
+				1DD5E6721E8DF6A400B8D9BF /* CuartoDos.swift in Sources */,
+				1D56748B1E8EB06E00BF1405 /* CocinaViewController.swift in Sources */,
+				1DD5E6701E8DE6C800B8D9BF /* CuartoUnoController.swift in Sources */,
+				1DD5E66C1E8DE6C800B8D9BF /* CamaraSController.swift in Sources */,
+				1DD5E6761E8E3C7E00B8D9BF /* LightController.swift in Sources */,
 				1DD5E6381E8DDD4700B8D9BF /* ViewController.swift in Sources */,
 				1DD5E6361E8DDD4700B8D9BF /* AppDelegate.swift in Sources */,
 			);
@@ -412,6 +445,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5P846UEQ9V;
 				INFOPLIST_FILE = SmartHomePedro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DreamTeamCo.SmartHomePedro;
@@ -424,6 +458,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5P846UEQ9V;
 				INFOPLIST_FILE = SmartHomePedro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DreamTeamCo.SmartHomePedro;
@@ -505,6 +540,7 @@
 				1DD5E65C1E8DDD4800B8D9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1DD5E65D1E8DDD4800B8D9BF /* Build configuration list for PBXNativeTarget "SmartHomePedroTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +549,7 @@
 				1DD5E65F1E8DDD4800B8D9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1DD5E6601E8DDD4800B8D9BF /* Build configuration list for PBXNativeTarget "SmartHomePedroUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +558,7 @@
 				1DD5E6621E8DDD4800B8D9BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
